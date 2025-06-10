@@ -1,12 +1,12 @@
 # ChatGPT 中文版：国内最新ChatGPT中文使用网站（支持ChatGPT、GPT-4o、o1、o3）
 
-> **更新时间： 2025/02/27**   
+> **更新时间： 2025/06/11**   
 **全面掌握 ChatGPT 中文版，无需翻墙即可体验 GPT-4 与多功能服务！**    
 
 
 本指南旨在为用户提供详尽的 **ChatGPT 中文版使用指南**，并整理国内常用的 **ChatGPT镜像网站** 与 **官方使用教程**，帮助您快速上手，不论是个人使用还是专业需求。
 
-ChatGPT 中文版入口: [https://www.yixiaai.com/](https://www.yixiaai.com/)  
+ChatGPT 中文版入口: [https://xsimplechat.com/](https://xsimplechat.com/)  
 ChatGPT 官网入口: [https://openai.com/](https://openai.com/)
 
 ---
@@ -39,9 +39,9 @@ ChatGPT 官网入口: [https://openai.com/](https://openai.com/)
 
 | 镜像站点      | 地址                                           | 支持版本        | 免费额度 | 注册方式    | 稳定性 | 功能亮点 |
 |---------------|------------------------------------------------|----------------|----------|------------|--------|----------|
-| **AI 智慧岛**   | [chat.lify.vip/](https://chat.lify.vip/)         | GPT-4,GPT-3.5   | 有        | 邮箱注册   | 高     | 中文支持、绘图功能 |
+| **xsimple**   | [xsimplechat.com/](https://xsimplechat.com/)         | GPT-4,GPT-3.5   | 有        | 邮箱注册   | 高     | 中文支持、绘图功能 |
 | **一下 AI**     | [www.yixiaai.com/](https://www.yixiaai.com/)               | GPT-4,GPT-o1    | 有        | 邮箱注册   | 高     | |
-| **蓝鲸 AI**  | [chatgpt.lanjing.ai/](https://chatgpt.lanjing.ai/) | GPT-4,GPT-3.5   | 有        | 邮箱注册   | 高     | 稳定快速、API调用 |
+| **蓝鲸 AI**  | [chat.lanjingai.org/](https://chat.lanjingai.org/) | GPT-4,GPT-3.5   | 有        | 邮箱注册   | 高     | 稳定快速、API调用 |
 | **AI 工具集**  | [yixiaai.cn/](https://yixiaai.cn/)         | GPT-3.5         | 有        | 无需注册   | 中     | |
 
 ---
